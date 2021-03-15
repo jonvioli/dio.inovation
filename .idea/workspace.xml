@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4af5b0e8-002c-45c2-9230-10d0c7e77d70" name="Default Changelist" comment="Created Double Array and the Operations">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TestList.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4af5b0e8-002c-45c2-9230-10d0c7e77d70" name="Default Changelist" comment="Uptade test list, extract employee to separate fila and created" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Data Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -50,7 +47,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager" selected="Application.TestOperacoesKt">
+  <component name="RunManager" selected="Application.TestSetKt">
     <configuration name="TestArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Collections.main" />
       <option name="VM_PARAMETERS" />
@@ -103,14 +100,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TextInArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="TestSetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Collections.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TextInArrayKt" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TestSetKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSetKt" />
         <item itemvalue="Application.TestOperacoesKt" />
         <item itemvalue="Application.TestDoubleArrayKt" />
         <item itemvalue="Application.TestArrayStringKt" />
         <item itemvalue="Application.TestIntArrayOffKt" />
-        <item itemvalue="Application.TextInArrayKt" />
       </list>
     </recent_temporary>
   </component>
@@ -156,13 +153,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615837518373</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Uptade test list, extract employee to separate fila and created">
+      <created>1615843844408</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615843844408</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created Array" />
     <MESSAGE value="Created Array of and Array String of test class" />
     <MESSAGE value="Created Double Array and the Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created Double Array and the Operations" />
+    <MESSAGE value="Uptade test list, extract employee to separate fila and created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uptade test list, extract employee to separate fila and created" />
   </component>
 </project>
