@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4af5b0e8-002c-45c2-9230-10d0c7e77d70" name="Default Changelist" comment="" />
+    <list default="true" id="4af5b0e8-002c-45c2-9230-10d0c7e77d70" name="Default Changelist" comment="Created Double Array and the Operations">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/one/digitalinnovation/collections/TestList.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,7 +26,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1pnha83tQcrvblTxSLIqxRkQ7F3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,8 +48,61 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestOperacoesKt">
+    <configuration name="TestArrayStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Collections.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TestArrayStringKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDoubleArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Collections.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TestDoubleArrayKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestIntArrayOffKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Collections.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TestIntArrayOffKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOperacoesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="Collections.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="one.digitalinnovation.collections.TestOperacoesKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TextInArrayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="Collections.main" />
       <option name="VM_PARAMETERS" />
@@ -47,6 +118,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestOperacoesKt" />
+        <item itemvalue="Application.TestDoubleArrayKt" />
+        <item itemvalue="Application.TestArrayStringKt" />
+        <item itemvalue="Application.TestIntArrayOffKt" />
         <item itemvalue="Application.TextInArrayKt" />
       </list>
     </recent_temporary>
@@ -60,6 +135,34 @@
       <option name="presentableId" value="Default" />
       <updated>1615824836102</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created Array">
+      <created>1615830233606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615830233606</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created Array of and Array String of test class">
+      <created>1615832094647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615832094647</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Created Double Array and the Operations">
+      <created>1615837518373</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615837518373</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created Array" />
+    <MESSAGE value="Created Array of and Array String of test class" />
+    <MESSAGE value="Created Double Array and the Operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="Created Double Array and the Operations" />
   </component>
 </project>
